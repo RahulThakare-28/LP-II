@@ -1,0 +1,1 @@
+12.	Create a responsive web page that shows an admin dashboard for the College Management System with a sidebar, table, and statistics in cards using HTML, CSS, and Bootstrap. 
