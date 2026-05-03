@@ -1,2 +1,7 @@
 6.	Create a basic app using Angular/React/EJS for REST API using Node.JS, Express JS, and MongoDB to insert and update database operations
 
+"10. Create a basic app using Angular/React/Ejs for REST API using Node.JS, Express JS and MongoDB to insert and display database operations." 
+
+"11. Create a basic app using Angular/React for REST API using Node.JS, Express JS, and MongoDB for insert and delete database operations." 
+
+"13. Create CRUD operations using Node.JS, Express JS and MongoDB, Mongoose."
