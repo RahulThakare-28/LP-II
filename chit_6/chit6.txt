@@ -1,0 +1,2 @@
+6.	Create a basic app using Angular/React/EJS for REST API using Node.JS, Express JS, and MongoDB to insert and update database operations
+
